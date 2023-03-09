@@ -88,10 +88,10 @@
 		87377F9829B7E0520050D867 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				87377F8C29B7E0200050D867 /* RecipeListView.swift */,
-				8714DAA429B8C09900EF751F /* RecipeDetailView.swift */,
 				8714DB0529B8EF8800EF751F /* RecipeTabView.swift */,
 				87E1312129BA60D700E0C139 /* RecipeFeatureView.swift */,
+				87377F8C29B7E0200050D867 /* RecipeListView.swift */,
+				8714DAA429B8C09900EF751F /* RecipeDetailView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
